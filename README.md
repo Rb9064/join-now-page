@@ -1,2 +1,0 @@
- # join-now-page
- hello 
